@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-Notes for Cloud
+## Notes for Cloud Certifications 
 
 ### Notes for AWS Certifications
 
