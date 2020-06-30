@@ -1,4 +1,8 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 include:  
-  - CPP.md
-  
+  - CPP.md  
 theme: jekyll-theme-slate
