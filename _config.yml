@@ -1,1 +1,3 @@
+include:
+  - CPP.md
 theme: jekyll-theme-slate
